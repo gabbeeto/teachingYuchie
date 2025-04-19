@@ -1,0 +1,12 @@
+descripcion:
+	hola, este es un video hecho con todo corazón. Me costó crear esta peluqueria.
+	espero que me sigan en mis redes sociales
+	redes:
+		twitter:@yuchieCamionera2.0
+		instagram:@chuchiePelonona
+		discord:@yuchie666
+		telegram:@CamioneroMisteriosoDeLasMontañas
+
+
+
+

@@ -1,0 +1,5 @@
+Nombre: Juan Carlos
+Edad: 70
+Experiencia: Experto en Truck Simulator
+Descripcion: Soy muy bueno manejando el camion. Transporto cajas a domicilio
+
